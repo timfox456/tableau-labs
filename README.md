@@ -12,6 +12,16 @@ Perform advanced dashboard, visualization, and analytical techniques with Tablea
 - Includes best practices on using Tableau with modern cloud analytics services
 
 
+## Slides
+
+[Course Slides](slides/tableau-course.pdf)
+
+
+## Student Book
+
+[Student Book](book/student-book.pdf)
+
+
 
 ### Labs
 
