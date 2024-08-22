@@ -22,6 +22,13 @@ Perform advanced dashboard, visualization, and analytical techniques with Tablea
 [Student Book](book/student-book.pdf)
 
 
+## Install Trial
+
+You can install a trial version of Tableau to do these labs.  Here is the link:
+
+[Install Trial Version](./install-trial.md)
+
+
 
 ### Labs
 
