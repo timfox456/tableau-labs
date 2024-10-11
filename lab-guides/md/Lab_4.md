@@ -1,7 +1,4 @@
 
-<img align="right" src="./images/logo.png">
-
-
 Lab 4. Advanced Calculations and Grouping Data
 -----------------------------------------------
 

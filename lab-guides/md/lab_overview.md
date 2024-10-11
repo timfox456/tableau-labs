@@ -1,7 +1,5 @@
-<img align="right" src="./images/logo.png">
 
-
-<h2><span style="color:red;">Tableau Desktop</span></h2>
+# Tableau Labs
 
 ### Description
 Perform advanced dashboard, visualization, and analytical techniques with Tableau Desktop.

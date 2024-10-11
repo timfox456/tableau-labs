@@ -1,6 +1,3 @@
-<img align="right" src="./images/logo.png">
-
-
 
 Lab 6. Creating Dashboards in Tableau
 ---------------------------------------

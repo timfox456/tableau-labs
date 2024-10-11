@@ -1,6 +1,3 @@
-<img align="right" src="./images/logo.png">
-
-
 
 Lab 5. Filtering Data
 -----------------------
