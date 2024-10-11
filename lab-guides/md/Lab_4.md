@@ -4,14 +4,14 @@ Lab 4. Advanced Calculations and Grouping Data
 
 
 In this lab, we will cover the following topics:
--   Creating calculated fields
--   Implementing quick table calculations
--   Creating and using groups
--   Creating and using sets
--   Creating and using parameters
--   Implementing the basics of level of detail expressions
--   Using custom geocoding
--   Using polygons for analytics
+ * Creating calculated fields
+ * Implementing quick table calculations
+ * Creating and using groups
+ * Creating and using sets
+ * Creating and using parameters
+ * Implementing the basics of level of detail expressions
+ * Using custom geocoding
+ * Using polygons for analytics
 
 
 Creating calculated fields 
@@ -54,6 +54,7 @@ open a blank worksheet.
 ```
 SUM([Civilian Labor Force])-LOOKUP(SUM([Civilian Labor Force]),-1)
 ```
+
 Let\'s see how it looks in the following screenshot:
 
 
@@ -86,7 +87,7 @@ calculation functions, including the
 `LOOKUP` function, require an aggregated value to work with.
 That means that, when we use fields without an aggregation function --
 for example, just `Civilian Labor Force` instead of
-`SUM([Civilian Labor Force])`---we may get an error in the
+`SUM([Civilian Labor Force])` ---we may get an error in the
 calculated field.
 
 However, it is important to note that our original dataset has remained

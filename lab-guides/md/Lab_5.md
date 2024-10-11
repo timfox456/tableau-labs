@@ -5,13 +5,13 @@ Lab 5. Filtering Data
 
 
 In this lab, we will cover the following topics:
--   Implementing a top N filter
--   Adding filters to context
--   Creating a measure filter
--   Creating date range filters
--   Creating relative date filters
--   Implementing table calculation filters
--   Implementing action filters
+ * Implementing a top N filter
+ * Adding filters to context
+ * Creating a measure filter
+ * Creating date range filters
+ * Creating relative date filters
+ * Implementing table calculation filters
+ * Implementing action filters
 
 
 Introduction 

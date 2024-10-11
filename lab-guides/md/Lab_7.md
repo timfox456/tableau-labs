@@ -5,12 +5,12 @@ Lab 7. Creating Stories in Tableau
 
 
 In this lab, we will cover the following recipes:
--   Creating a Tableau Story
--   Setting the narrative of the Story 
--   Choosing the right charts
--   Writing effective headlines
--   Recommendation and executive summary
--   Formatting the Story 
+ * Creating a Tableau Story
+ * Setting the narrative of the Story 
+ * Choosing the right charts
+ * Writing effective headlines
+ * Recommendation and executive summary
+ * Formatting the Story 
 
 
 Technical requirements 

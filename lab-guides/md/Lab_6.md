@@ -5,14 +5,15 @@ Lab 6. Creating Dashboards in Tableau
 
 
 In this lab, we will cover the following recipes:
--   Creating a dashboard
--   Formatting a dashboard
--   Setting filters
--   Setting filters across various data sources
--   Navigating through actions
--   Adding highlight actions
--   Setting layouts
--   Building a self-service dashboard
+
+ * Creating a dashboard
+ * Formatting a dashboard
+ * Setting filters
+ * Setting filters across various data sources
+ * Navigating through actions
+ * Adding highlight actions
+ * Setting layouts
+ * Building a self-service dashboard
 
 
 Introduction 

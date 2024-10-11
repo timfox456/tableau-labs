@@ -5,15 +5,16 @@ Lab  1. Tableau Fundamentals
 
 
 In this lab, we will cover the following recipes:
--   Connecting to the data
--   Building a bar chart using Show Me 
--   Building a text table 
--   Adding filters
--   Adding color
--   Building a tree map
--   Building a map
--   Customizing tooltips 
--   Building a dual axis map
+
+ * Connecting to the data
+ * Building a bar chart using Show Me 
+ * Building a text table 
+ * Adding filters
+ * Adding color
+ * Building a tree map
+ * Building a map
+ * Customizing tooltips 
+ * Building a dual axis map
 
 
 

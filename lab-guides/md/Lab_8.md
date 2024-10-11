@@ -5,12 +5,13 @@ Lab 8. Customizing Visualizations
 
 
 In this lab, we will cover the following topics:
--   Dual axis waterfall charts
--   Pareto charts
--   Bump charts
--   Sparkline charts
--   Donut charts
--   Motion charts
+
+ * Dual axis waterfall charts
+ * Pareto charts
+ * Bump charts
+ * Sparkline charts
+ * Donut charts
+ * Motion charts
 
 
 

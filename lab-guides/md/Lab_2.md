@@ -5,12 +5,13 @@ Lab 2. Exploring Data
 
 
 In this lab, we\'ll cover the following topics:
--   Joining data sources
--   Adding a secondary data source
--   Data blending
--   Data union
--   Using Tableau Pivot
--   Preparing data
+
+ * Joining data sources
+ * Adding a secondary data source
+ * Data blending
+ * Data union
+ * Using Tableau Pivot
+ * Preparing data
 
 
 
